@@ -1,0 +1,8 @@
+
+ports:
+  - port: 5500
+    onOpen: open-preview
+
+vscode:
+  extensions:
+    - ritwickdey.liveserver
